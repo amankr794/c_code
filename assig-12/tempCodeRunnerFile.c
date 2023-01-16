@@ -1,0 +1,1 @@
+// Write a function to find the index of the smallest element of an array of size n

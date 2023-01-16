@@ -1,0 +1,1 @@
+// Write a function to calculate mean deviation of given elements
